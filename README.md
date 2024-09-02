@@ -1,4 +1,5 @@
 # demorepo
+
 This is my first git repository.
 <br>
-Author - Rithik Srivastava
+Author - Rithik Srivastava(Own)
